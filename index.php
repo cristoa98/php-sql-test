@@ -5,6 +5,6 @@
     <title>CRUD PHP</title>
 </head>
 <body>
-    
+    <h1>hola mundo</h1>
 </body>
 </html>
